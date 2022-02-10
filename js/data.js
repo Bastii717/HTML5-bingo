@@ -30,5 +30,8 @@ var JSONBingo = {"squares": [
         {"square": "Upcoming migration to new hardware."},
         {"square": "IT realized by 2 people."},
         {"square": "CISO not available for further questions."},
+        {"square": "No MFA available / enforced."},
+        {"square": "Log4J"},
+        {"square": "Hafnium"},
     ]
 };
