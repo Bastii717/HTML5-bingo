@@ -1,5 +1,7 @@
 var headerText = "DFIR Bingo";
 
+var footerText = "<a href='https://github.com/michaellevesque/HTML5-bingo' target='_blank'>Code available on github</a>";
+
 var winText = "We got a Winner";
 
 var clickSnd = new Audio("audio/click.mp3");
