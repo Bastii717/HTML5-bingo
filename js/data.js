@@ -1,6 +1,6 @@
 var headerText = "DFIR Bingo";
 
-var footerText = "<a href='https://github.com/michaellevesque/HTML5-bingo' target='_blank'>Code available on github</a>";
+var footerText = "Last edited: Feb 10, 2022";
 
 var winText = "We got a Winner";
 
