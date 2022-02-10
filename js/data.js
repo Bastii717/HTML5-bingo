@@ -14,5 +14,9 @@ var JSONBingo = {"squares": [
         {"square": "No Logging was implemented."},
         {"square": "Customer/Technician not able to follow instructions written in Readme File."},
         {"square": "Head of IT not available."},
+        {"square": "Default User and Password Combination."},
+        {"square": "Privilged User with weak password."},
+        {"square": "Unpatched system as entry point."},
+        {"square": "Exposed Service with Default Login Credentials."},
     ]
 };
