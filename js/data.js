@@ -1,6 +1,6 @@
 var headerText = "DFIR Bingo";
 
-var footerText = "Last edited: Feb 10, 2022";
+var footerText = "Last edited: Oct 12, 2022";
 
 var winText = "We got a Winner";
 
@@ -33,5 +33,11 @@ var JSONBingo = {"squares": [
         {"square": "No MFA available / enforced."},
         {"square": "Log4J"},
         {"square": "Hafnium"},
+        {"square": "No Backup"},
+        {"square": "Phishing"},
+        {"square": "Ransomware"},
+        {"square": "Exchange CVE"},
+        {"square": "Citrix CVE"},
+        {"square": "Weak Password"},
     ]
 };
