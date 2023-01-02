@@ -39,5 +39,6 @@ var JSONBingo = {"squares": [
         {"square": "Exchange CVE"},
         {"square": "Citrix CVE"},
         {"square": "Weak Password"},
+        {"square": "EDR/XDR Licenses purchased, but not implemented yet."},
     ]
 };
