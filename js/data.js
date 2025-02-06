@@ -65,6 +65,6 @@ squares: [
     { square: "Mehr Automatisierung und KI." },
     { square: "Unsere Strategie für die nächsten 3 Jahre." },
     { square: "Marktveränderungen frühzeitig erkennen." },
-  ],
+  ]
 
 };
