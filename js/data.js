@@ -42,7 +42,8 @@ var winSnd = new Audio("audio/win.mp3");
 //         {"square": "EDR/XDR Licenses purchased, but not implemented yet."},
 //     ]
 
-squares: [
+var JSONBingo = {
+  squares: [
     { square: "Gutes Jahr, ABER" },
     { square: "Sparen, Sparen, Sparen." },
     { square: "Highlight" },
@@ -65,6 +66,5 @@ squares: [
     { square: "Mehr Automatisierung und KI." },
     { square: "Unsere Strategie für die nächsten 3 Jahre." },
     { square: "Marktveränderungen frühzeitig erkennen." },
-  ]
-
+  ],
 };
