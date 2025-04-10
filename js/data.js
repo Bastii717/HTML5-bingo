@@ -46,6 +46,6 @@ var JSONBingo = {
     { square: "Exchange CVE" },
     { square: "Citrix CVE" },
     { square: "Weak Password" },
-    { square: "EDR/XDR Licenses purchased, but not implemented yet." },
+    { square: "EDR/XDR Licenses purchased, but not implemented yet." }
   ],
 };
